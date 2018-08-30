@@ -1,5 +1,5 @@
 # Lab_01 - HTML/CSS Refresher
-Name: _______________________________________
+Name: Corey Taylor
 
 ## DUE: 02 Sep 2018
 
